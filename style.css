@@ -77,6 +77,22 @@
   text-align: center;
 }
 
+#internship {
+  margin-top: 50px;
+}
+
+#internship h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.internship-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
 .certify-table {
   width: 100%;
   border-collapse: collapse; /* Ensures that the table borders are merged for a cleaner look */
